@@ -1,0 +1,12 @@
+body{
+    background:yellow;
+}
+h1::first-letter{
+    font-family: 'Reggae One', cursive;
+    font-size: 60px;
+    color:blue;
+    text-shadow:5px 5px 5px rgb(0, 255, 242);
+}
+li{
+    list-style: none;
+}
